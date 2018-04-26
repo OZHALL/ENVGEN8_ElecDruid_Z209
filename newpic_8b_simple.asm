@@ -44,6 +44,9 @@
 ; 4 Feb 2018 - finishing off
 ; Adding fixed-length Punch stage and selector input. Testing Time CV.
 ; Tidying up code.
+;
+; Begin changes by O.Z. Hall
+; 26 Apr 2018 - morph this code to work with the Z209 hardware
 
 
 	LIST R=DEC
